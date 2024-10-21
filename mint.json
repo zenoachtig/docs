@@ -5,6 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+  "sidebar": "card",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
